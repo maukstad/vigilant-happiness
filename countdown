@@ -1,0 +1,9 @@
+#!/bin/python3
+
+# file to count down
+
+n=0
+while(n <= 5):
+  print (n)
+  n = n+1
+  
